@@ -1,2 +1,3 @@
-# Donut
-Donut blender project with rendered images
+# Blender
+
+A collection of Blender projects with rendered images
